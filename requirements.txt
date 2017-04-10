@@ -1,0 +1,11 @@
+#Prediction requirements
+
+pandas
+matplotlib
+numpy>=1.6.1
+SciPy
+scikit-learn
+pydotplus
+# Decision Tree #
+# Need 'brew install graphviz' for MacOSX
+# Or ‘sudo apt-get install graphviz’ for Linux
